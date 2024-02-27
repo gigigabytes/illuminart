@@ -3,7 +3,7 @@
 <h2>⚡ Projeto</h2>
 Durante a disciplina de Interface Humano-Computador no curso de Análise e Desenvolvimento de Sistemas do IFRN, foi proposto um modelo de marketplace que oferece como atividades bases: Facilidade no cadastro de novos produtos; Expansão da base de clientes e Interação entre artesãos e clientes.
 
-A proposta de valor do app Illuminart iria incluir os seguintes fatores: 
+A proposta de valor do app Illuminart visa incluir os seguintes fatores: 
 
 - Qualidade dos produtos feitos à mão
 - Cuidado durante a preparação e encaminhamento do produto ao cliente,
